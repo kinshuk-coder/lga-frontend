@@ -3,8 +3,8 @@
 This is the user-facing client for the **Autonomous Lead Generation Agent**, a full-stack tool designed to automate B2B research and cold outreach. Built with React and Vite, this application features a premium dark-themed SaaS UI and utilizes advanced data streaming to render real-time agentic workflows.
 
 ## Live Demo
-* **Frontend Application:** [Insert your Vercel Live URL here]
-* **Backend API Repository:** [Insert your Backend GitHub URL here]
+* **Frontend Application:** [[lead-gen-agent-alpha.vercel.app](https://lead-gen-agent-alpha.vercel.app/)]
+* **Backend API Repository:** [[github.com/kinshuk-coder/lga-backend](https://github.com/kinshuk-coder/lga-backend)]
 
 ## Architecture & Tech Stack
 
@@ -27,7 +27,7 @@ This is the user-facing client for the **Autonomous Lead Generation Agent**, a f
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/kinshuknarang/lead-gen-agent-frontend.git](https://github.com/kinshuknarang/lead-gen-agent-frontend.git)
+git clone [https://github.com/kinshuk-coder/lga-frontend.git](https://github.com/kinshuk-coder/lga-frontend.git)
 cd lead-gen-agent-frontend
 ```
 
