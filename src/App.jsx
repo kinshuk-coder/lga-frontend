@@ -53,7 +53,7 @@ function App() {
     // Exception handling
     try {
       // Sending the fetch request 
-      const response = await fetch("https://lga-backend.onrender.com/chat", {
+      const response = await fetch(`${import.meta.env.VITE_API_URL}/chat`, {
         method: "POST",
         headers: { "content-type": "application/json" },
         body: JSON.stringify({ name: userMessage })
