@@ -28,7 +28,7 @@ This is the user-facing client for the **Autonomous Lead Generation Agent**, a f
 **1. Clone the repository**
 ```bash
 git clone [https://github.com/kinshuk-coder/lga-frontend.git](https://github.com/kinshuk-coder/lga-frontend.git)
-cd lead-gen-agent-frontend
+cd lga-frontend
 ```
 
 **2. Install dependencies**
