@@ -53,7 +53,7 @@ function App() {
     // Exception handling
     try {
       // Sending the fetch request 
-      const response = await fetch("http://127.0.0.1:8000/chat", {
+      const response = await fetch("https://lga-backend.onrender.com", {
         method: "POST",
         headers: { "content-type": "application/json" },
         body: JSON.stringify({ name: userMessage })
